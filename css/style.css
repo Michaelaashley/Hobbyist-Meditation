@@ -1,0 +1,90 @@
+/* Navigation*/
+
+body {
+    display: block;
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: none;
+}
+
+
+.navbar-brand {
+    font-family: "Poppins";
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 67px;
+color: #000000;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: rgba(255, 99, 155, 0.67);
+}
+
+nav ul li a {
+    font-family: "Roboto";
+font-style: normal;
+font-weight: lighter;
+font-size: 24px;
+line-height: 28px;
+    color: #000000;
+    margin: auto 30px;
+}
+
+.navbar-light .navbar-nav .nav-item a:hover{
+    color: rgba(255, 99, 155, 0.67);
+}
+
+
+/* Section */
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section h1 {
+    font-family: "Poppins";
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 60px;
+text-align: center;
+color: #000000;
+}
+
+
+.img-fluid {
+    width: 547px;
+    height: 410px;
+    border: none;
+    border-radius: 91px;
+}
+
+section h2 {
+    font-family: "Poppins";
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #000000;
+
+}
+
+p {
+    position: relative;
+    display: block;
+    padding: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-family: "Roboto";
+font-style: normal;
+font-weight: lighter;
+font-size: 24px;
+line-height: 28px;
+color: #000000;
+}
+
