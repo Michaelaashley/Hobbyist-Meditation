@@ -88,3 +88,21 @@ line-height: 28px;
 color: #000000;
 }
 
+.btn {
+    position: relative;
+    display: block;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    width: 217px;
+height: 64px;
+border-radius: 22px;
+background: #201C3A;
+color: white;
+}
+
+.btn:hover {
+    background-color:white;
+    color: #201C3A;
+    border: 2px solid #201C3A;
+}
+
